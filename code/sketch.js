@@ -27,7 +27,7 @@ function setup() {
   button.position(input.x + input.width, 350);
   button.mousePressed(greet);
 
-	greeting = createElement('h2', 'Finish ? What is your name ?');
+	greeting = createElement('h2', 'Finished? What is your name?');
   greeting.position(600, 300);
 
 }
@@ -91,7 +91,8 @@ function greet() {
   greeting.html('See you soon '+name+'!');
   input.value('');
 	// textSize(50);
-  text(name, width/2, 800);
+	textAlign(RIGHT, BOTTOM);
+  text(name, width-20, height-20);
   save(cnv, name+'.jpg');
 	background('white');
 }
