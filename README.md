@@ -1,11 +1,16 @@
 # swingprint
 
+<<<<<<< HEAD
 Hardware required 
 
 -360° swing with a circle seat and a rope
 -an Iphone (sorry for the Android's purist)
 
 
+=======
+Hardwares
+Softwares
+>>>>>>> 8531ab80753bf7defdeabda66acc5b18448aa167
 
 ## How to write human movements ?
 
@@ -79,8 +84,11 @@ The work-file is 'sketch.js' in the folder 'p5-basic'.
 V.0.1
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 8531ab80753bf7defdeabda66acc5b18448aa167
 ## More ...
 
 STOP & START
@@ -92,4 +100,8 @@ GOODIES
 
 // Print
 // Incorporate an image and a font
+<<<<<<< HEAD
 // Superpoze all the saved results to create a global creation
+=======
+// Superpoze all the saved results to create a global creation
+>>>>>>> 8531ab80753bf7defdeabda66acc5b18448aa167
