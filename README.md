@@ -1,21 +1,14 @@
 # swingprint
 
-<<<<<<< HEAD
 Hardware required 
 
 -360° swing with a circle seat and a rope
 -an Iphone (sorry for the Android's purist)
 
-
-=======
-Hardwares
-Softwares
->>>>>>> 8531ab80753bf7defdeabda66acc5b18448aa167
-
 ## How to write human movements ?
 
 
-![swing](/README-img/options.jpg)
+![swing](swingprint/assets/GyrOSC.jpg)
 https://grabcad.com/library/swing-chair-2/details?folder_id=1377697
 
 ### Project
@@ -31,23 +24,23 @@ of the result of his experience and his name.
 
 
 ## GyrOSC
-![screen1](/README-img/GyrOSC.jpg)
+![screen1](/assets/GyrOSC.jpg)
 
 1. Download "GyroOSC" (it costs 1,09€) on App Store.
 
 2. Open the app.
 
 3. Check that "Gyroscope" and different options are activated.
-![screen1](/README-img/options.jpg)
+![screen1](/assets/options.jpg)
 
 4. Connect the telephone and the computer on the same network.
 
 5. Input in "Adresse IP Cible" the same IP address of the computer.
-![screen1](/README-img/IPaddress.jpg)
+![screen1](/assets/IPaddress.jpg)
 
 
 6. Input in "Port" '8000'.
-![screen1](/README-img/port.jpg)
+![screen1](/assets/port.jpg)
 
 
 
@@ -83,12 +76,6 @@ The work-file is 'sketch.js' in the folder 'p5-basic'.
 
 V.0.1
 
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 8531ab80753bf7defdeabda66acc5b18448aa167
 ## More ...
 
 STOP & START
@@ -100,8 +87,5 @@ GOODIES
 
 // Print
 // Incorporate an image and a font
-<<<<<<< HEAD
 // Superpoze all the saved results to create a global creation
-=======
 // Superpoze all the saved results to create a global creation
->>>>>>> 8531ab80753bf7defdeabda66acc5b18448aa167
