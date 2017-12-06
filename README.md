@@ -2,17 +2,17 @@
 
 Hardware required 
 
--360° swing with a circle seat and a rope
--an Iphone (sorry for the Android's purist)
-
-## How to write human movements ?
-
-
-![swing](swingprint/assets/GyrOSC.jpg)
+• 360° swing with a circle seat and a rope
+![swing](/assets/3Dmodelisation.png)
+![swing](/assets/Iwona-Kosicka.jpg)
 https://grabcad.com/library/swing-chair-2/details?folder_id=1377697
+
+• :iphone: an Iphone (sorry for the Android's purist)
+
 
 ### Project
 
+#### How to write human movements ?
 Create a connected and interactive swing that translates movements into forms, lines, colors (thanks to a gyroscope and an accelerometer incorporated in the seat).
 
 ### Scenario
@@ -55,37 +55,45 @@ https://github.com/genekogan/p5js-osc
 
 When you want to work again, open Terminal :
 
-		`<addr>` cd 'insert folder where there is the file *bridge.js* and the node' 
-		`<addr>` node bridge.js
+		`cd 'insert folder where there is the file *bridge.js* and the node'`  
+		`node bridge.js` 
 
 ## Program
 
 The work-file is 'sketch.js' in the folder 'p5-basic'.
 1. In the setup, you must change the first value of 'setupOsc' to correspond with the value of the port of the telephone's app.
-
-	`<addr>`function setup() {
-	`<addr>`setupOsc(8000, 3334);
-	`<addr>`}
+```javascript
+	function setup() {
+	setupOsc(8000, 3334);
+	}
+```
 
 2. In the same time, you must change the value of port in the function 'setupOsc'
-	`<addr>`function setupOsc(oscPortIn, oscPortOut) {
-	`<addr>`var socket = io.connect('http://127.0.0.1:8081', { port: 8000, rememberTransport: false });
-	`<addr>`}
+```javascript
+	function setupOsc(oscPortIn, oscPortOut) {
+	var socket = io.connect('http://127.0.0.1:8081', { port: 8000, rememberTransport: false });
+	}
+```
 
 ## Evolutions
 
-V.0.1
+:disappointed: V.0.1
+:confused:
+:hushed:
+:no_mouth:
+:simple_smile:
+:smiley:
 
 ## More ...
 
 STOP & START
 
-// When you click on "Submit", the experience stop
-// Create a Start button (for the experience begins when you decide)
+- [ ] When you click on "Submit", the experience stop
+- [ ] Create a Start button (for the experience begins when you decide)
 
-GOODIES
+GOODIES :gift:
 
-// Print
-// Incorporate an image and a font
-// Superpoze all the saved results to create a global creation
-// Superpoze all the saved results to create a global creation
+- [ ] Print
+- [ ] Incorporate an image and a font
+- [ ] Superpoze all the saved results to create a global creation
+- [ ] Superpoze all the saved results to create a global creation
