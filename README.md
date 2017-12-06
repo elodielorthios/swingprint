@@ -12,8 +12,13 @@ https://grabcad.com/library/swing-chair-2/details?folder_id=1377697
 
 ### Project
 
+#### Context
+
+This work enters into the context of the future event "Interaction 18" in Lyon (France). 
+
 #### How to write human movements ?
-Create a connected and interactive swing that translates movements into forms, lines, colors (thanks to a gyroscope and an accelerometer incorporated in the seat).
+
+To answer this question, I created a connected and interactive swing that translates movements into forms, lines, colors (thanks to a gyroscope and an accelerometer incorporated in the seat).
 
 ### Scenario
 
@@ -52,6 +57,18 @@ Keep the app open and hang solidly the telephone under or on the seat with the u
 
 Click on the link, dowload the library and follow the instructions.
 https://github.com/genekogan/p5js-osc
+(if you are lazy : 
+1. Install ![node]https://nodejs.org/en/
+
+2. Open Terminal. Clone this repo and run npm to get required libraries.
+`
+$ git clone https://github.com/genekogan/p5js-osc
+$ cd p5js-osc/
+$ npm install
+`
+3. Start node
+`$ node bridge.js`
+)
 
 When you want to work again, open Terminal :
 
@@ -77,12 +94,12 @@ The work-file is 'sketch.js' in the folder 'p5-basic'.
 
 ## Evolutions
 
-:disappointed: V.0.1
-:confused:
-:hushed:
-:no_mouth:
-:simple_smile:
-:smiley:
+•:disappointed: V.0.1 : cercles follow the cursor. Firstly I worked on the print of the mouse's movement.
+•:confused: : V.0.2 : 
+•:hushed:
+•:no_mouth:
+•:blush: V.1.0 : input the name. this action saves the file
+•:smiley: V.1.2 : introduce the amazing world of objects.
 
 ## More ...
 
