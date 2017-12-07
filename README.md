@@ -107,10 +107,10 @@ The work-file is 'sketch.js' in the folder 'p5-basic'.
 *:no_mouth: V.0.2 : connect gyroscop's phone and computer
 
 
-*:blush: V.1.0 : input the name. this action saves the file
+*:blush: V.1.0 : input the name. This action saves the file and erases/resets the experience.
 https://p5js.org/examples/dom-input-and-button.html
 
-I copied and pasted the piece of code of this example.
+I copied and pasted the piece of code of this example. The principal function is ```javascript function greet()```
 
 *:smiley: V.1.2 : introduce the amazing world of objects.
 
