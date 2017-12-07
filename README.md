@@ -3,9 +3,8 @@
 Hardware required 
 
 • 360° swing with a circle seat and a rope
-![swing](/assets/3Dmodelisation.png)
-<img src="/assets/3Dmodelisation.png" width="48">
-![swing](/assets/Iwona-Kosicka.jpg)
+<img src="/assets/3Dmodelisation.png" width="200">
+<img src="/assets/Iwona-Kosicka.jpg" width="200">
 https://grabcad.com/library/swing-chair-2/details?folder_id=1377697
 
 • :iphone: an Iphone (sorry for the Android's purist)
@@ -30,23 +29,23 @@ of the result of his experience and his name.
 
 
 ## GyrOSC
-![screen1](/assets/GyrOSC.jpg)
+<img src="/assets/GyrOSC.jpg" width="50">
 
 1. Download "GyroOSC" (it costs 1,09€) on App Store.
 
 2. Open the app.
 
 3. Check that "Gyroscope" and different options are activated.
-![screen1](/assets/options.jpg)
+<img src="/assets/options.jpg" width="100">
 
 4. Connect the telephone and the computer on the same network.
 
 5. Input in "Adresse IP Cible" the same IP address of the computer.
-![screen1](/assets/IPaddress.jpg)
+<img src="/assets/IPaddress.jpg" width="100">
 
 
 6. Input in "Port" '8000'.
-![screen1](/assets/port.jpg)
+<img src="/assets/port.jpg" width="100">
 
 
 
