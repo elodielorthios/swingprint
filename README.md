@@ -96,12 +96,17 @@ The work-file is 'sketch.js' in the folder 'p5-basic'.
 
 ## Evolutions
 
-•:disappointed: V.0.1 : cercles follow the cursor. Firstly I worked on the print of the mouse's movement.
-•:confused: : V.0.2 : 
-•:hushed:
-•:no_mouth:
-•:blush: V.1.0 : input the name. this action saves the file
-•:smiley: V.1.2 : introduce the amazing world of objects.
+*:disappointed: V.0.1 : cercles follow the cursor. Firstly I worked on the print of the mouse's movement.
+
+*:confused: : V.0.2 : connect gyroscop's phone and computer
+*:hushed:
+*:no_mouth:
+*:blush: V.1.0 : input the name. this action saves the file
+https://p5js.org/examples/dom-input-and-button.html
+
+I copied and pasted the piece of code of this example.
+
+*:smiley: V.1.2 : introduce the amazing world of objects.
 
 ## More ...
 
