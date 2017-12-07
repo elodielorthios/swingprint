@@ -3,8 +3,10 @@
 Hardware required 
 
 • 360° swing with a circle seat and a rope
-<img src="/assets/3Dmodelisation.png" width="100">
-<img src="/assets/Iwona-Kosicka.jpg" width="200">
+<p>
+	<img src="/assets/3Dmodelisation.png" width="100">
+	<img src="/assets/Iwona-Kosicka.jpg" width="200">
+</p>
 https://grabcad.com/library/swing-chair-2/details?folder_id=1377697
 
 • :iphone: an Iphone (sorry for the Android's purist)
@@ -28,7 +30,7 @@ of the result of his experience and his name.
 
 
 
-## <img src="/assets/GyrOSC.jpg" width="50"> GyrOSC
+## <img src="/assets/GyrOSC.jpg" width="20"> GyrOSC
 
 
 1. Download "GyroOSC" (it costs 1,09€) on App Store.
@@ -45,7 +47,7 @@ of the result of his experience and his name.
 
 
 6. Input in "Port" '8000'.
-<img src="/assets/port.jpg" width="100">
+<img src="/assets/port.jpg" width="200">
 
 
 
