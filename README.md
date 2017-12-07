@@ -110,7 +110,24 @@ The work-file is 'sketch.js' in the folder 'p5-basic'.
 *:blush: V.1.0 : input the name. This action saves the file and erases/resets the experience.
 https://p5js.org/examples/dom-input-and-button.html
 
-I copied and pasted the piece of code of this example. The principal function is ```javascript function greet()```
+I copied and pasted the piece of code of this example. The principal function is **function greet()**.
+But I didn't want that my name appears everywhere on the canvas. 
+
+Firstly, I substituted 'hello' with 'See you soon !'. It looks like a triviatly, but user enters his name at the end of his experience, and the SwingPrint is courteous.
+
+Secondly, the loop is useless.
+
+```javascript
+		function greet() {
+		var name = input.value();
+		greeting.html('See you soon '+name+'!');
+		input.value('');
+		textAlign(RIGHT, BOTTOM);
+		text(name, width-20, height-20);
+		save(cnv, name+'.jpg');
+		background('white');
+		}
+```
 
 *:smiley: V.1.2 : introduce the amazing world of objects.
 
