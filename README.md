@@ -72,13 +72,15 @@ https://github.com/genekogan/p5js-osc
 		$ npm install
 
 3. Start node
-		```$ node bridge.js```
+		```
+		$ node bridge.js
+		```
 
 
 When you want to work again, open Terminal :
 
-		```cd 'insert folder where there is the file *bridge.js* and the node'  
-		node bridge.js``` 
+		cd 'insert folder where there is the file *bridge.js* and the node'  
+		node bridge.js
 
 ## Program
 
