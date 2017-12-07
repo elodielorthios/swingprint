@@ -4,6 +4,7 @@ Hardware required
 
 • 360° swing with a circle seat and a rope
 ![swing](/assets/3Dmodelisation.png)
+<img src="/assets/3Dmodelisation.png" width="48">
 ![swing](/assets/Iwona-Kosicka.jpg)
 https://grabcad.com/library/swing-chair-2/details?folder_id=1377697
 
