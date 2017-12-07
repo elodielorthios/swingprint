@@ -116,6 +116,11 @@ But I didn't want that my name appears everywhere on the canvas.
 Firstly, I substituted 'hello' with 'See you soon !'. It looks like a triviatly, but user enters his name at the end of his experience, and the SwingPrint is courteous.
 
 Secondly, the loop is useless.
+`textAlign` : place your name correctly.
+`save(cnv, name+'.jpg');` : when you click on the Submit button, an image is saved in your computer (I didn't find the way to indicate the breadcrumb).
+`background('white');` : when you click on the Submit button too, the draw on the Canvas is erased.
+
+
 
 ```javascript
 		function greet() {
