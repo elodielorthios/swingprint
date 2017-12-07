@@ -2,17 +2,17 @@
 
 Hardware required 
 
-• 360° swing with a circle seat and a rope
+• 360° swing with a circle seat and a rope.This model (designed by Iwona Kosicka) is interesting. A compartment in the seat to place the Iphone is missing.
 <p>
-	<img src="/assets/3Dmodelisation.png" width="100">
+	<img src="/assets/3Dmodelisation.png" width="75">
 	<img src="/assets/Iwona-Kosicka.jpg" width="200">
 </p>
-https://grabcad.com/library/swing-chair-2/details?folder_id=1377697
+Link of the 3D modelisation here : https://grabcad.com/library/swing-chair-2/details?folder_id=1377697
 
 • :iphone: an Iphone (sorry for the Android's purist)
 
 
-### Project
+### Definition of the project
 
 #### Context
 
@@ -29,8 +29,10 @@ Every player will have his own memory of this experience, with the print
 of the result of his experience and his name.
 
 
+## How to proceed ?
 
-## <img src="/assets/GyrOSC.jpg" width="20"> GyrOSC
+
+### 1. <img src="/assets/GyrOSC.jpg" width="20"> GyrOSC
 
 
 1. Download "GyroOSC" (it costs 1,09€) on App Store.
@@ -51,11 +53,12 @@ of the result of his experience and his name.
 
 
 
-## Swing
+### 2. Swing
 
 Keep the app open and hang solidly the telephone under or on the seat with the unlocked screen.
 
-## p5js-osc
+
+### 3. p5js-osc
 
 Click on the link, dowload the library and follow the instructions.
 https://github.com/genekogan/p5js-osc
@@ -63,14 +66,14 @@ https://github.com/genekogan/p5js-osc
 1. Install ![node]https://nodejs.org/en/
 
 2. Open Terminal. Clone this repo and run npm to get required libraries.
-`
-$ git clone https://github.com/genekogan/p5js-osc
-$ cd p5js-osc/
-$ npm install
-`
+
+		`$ git clone https://github.com/genekogan/p5js-osc
+		$ cd p5js-osc/
+		$ npm install`
+
 3. Start node
-`$ node bridge.js`
-)
+		`$ node bridge.js`
+
 
 When you want to work again, open Terminal :
 
@@ -94,13 +97,14 @@ The work-file is 'sketch.js' in the folder 'p5-basic'.
 	}
 ```
 
-## Evolutions
+## Work evolutions
 
-*:disappointed: V.0.1 : cercles follow the cursor. Firstly I worked on the print of the mouse's movement.
+*:disappointed: V.0.1 : cercles follow the cursor. Firstly I worked on the print of the mouse's movement. 
 
-*:confused: : V.0.2 : connect gyroscop's phone and computer
-*:hushed:
-*:no_mouth:
+
+*:no_mouth: V.0.2 : connect gyroscop's phone and computer
+
+
 *:blush: V.1.0 : input the name. this action saves the file
 https://p5js.org/examples/dom-input-and-button.html
 
