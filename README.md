@@ -67,18 +67,18 @@ https://github.com/genekogan/p5js-osc
 
 2. Open Terminal. Clone this repo and run npm to get required libraries.
 
-		`$ git clone https://github.com/genekogan/p5js-osc
+		$ git clone https://github.com/genekogan/p5js-osc
 		$ cd p5js-osc/
-		$ npm install`
+		$ npm install
 
 3. Start node
-		`$ node bridge.js`
+		```$ node bridge.js```
 
 
 When you want to work again, open Terminal :
 
-		`cd 'insert folder where there is the file *bridge.js* and the node'`  
-		`node bridge.js` 
+		```cd 'insert folder where there is the file *bridge.js* and the node'  
+		node bridge.js``` 
 
 ## Program
 
